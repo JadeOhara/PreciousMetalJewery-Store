@@ -1,0 +1,44 @@
+﻿body {
+
+}
+
+
+
+    .menu {
+    
+              width: auto;
+              height:35px;
+              text-align: justify;
+              font-family:'Century';
+              font-size: 20px;
+              padding-left: 1%;
+              padding-right: 1%;
+              color: #ffffff;
+
+          }
+
+
+    /* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: #b9b9b9;
+}
+
+/* mouse over link */
+a:hover {
+    color: #b6411c;
+}
+
+/* selected link */
+a:active {
+    color: #a58c8c;
+}
+
+.pagging{
+    width: 100%;
+    height: 25px;
+}
